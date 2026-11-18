@@ -179,3 +179,5 @@
 .v3-toast{position:fixed;z-index:120;left:50%;bottom:96px;translate:-50% 20px;opacity:0;pointer-events:none;background:var(--c-text);color:var(--c-bg);padding:12px 20px;border-radius:999px;font-size:.92rem;transition:opacity .3s,translate .3s;max-width:calc(100vw - 32px);text-align:center}
 .v3-toast.is-on{opacity:1;translate:-50% 0}
 @media (min-width:960px){.v3-toast{bottom:32px}}
+
+html,body{font-family:"Heebo",system-ui,Arial,sans-serif}
